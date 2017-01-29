@@ -8,6 +8,7 @@ Half-duplex communication system for UHF band operation with radio output power 
 
 - Artur Scholz [artur.scholz@librecube.net]
 - Jesus Sanchez []
+- Milenko Starcik []
 
 ## Acknowledgements
 
